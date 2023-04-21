@@ -1,0 +1,4 @@
+/logs/*
+!/logs/.keep
+/wavs/*
+!/wavs/.keep
